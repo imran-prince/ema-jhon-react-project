@@ -27,6 +27,7 @@ const Show = () => {
             </div>
             <div className="order-summry">
                <Cart cart={cart}></Cart>
+                
             </div>
             
         </div>
